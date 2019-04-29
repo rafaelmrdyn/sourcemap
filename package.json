@@ -1,0 +1,11 @@
+{
+  "name": "source-map-debug",
+  "version": "0.0.1",
+  "description": "source-map",
+  "dependencies": {
+    "error-stack-parser": "^2.0.2",
+    "express": "^4.15.2",
+    "stacktrace-js": "^2.0.0",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
